@@ -51,7 +51,7 @@ PianoVision achieves **competitive Proof-of-Concept transcription accuracy* (F�
 
 ✅ **Real-time inference** - Asynchronous job queue with worker pool architecture
 
-✅ **Multi-dataset training** - Domain adaptation across MAESTRO, BCHT, BSDF, STGB datasets
+✅ **Multi-dataset training** - Domain adaptation across MAPS (instruments AkPnBcht, AkPnBsdf, AkPnStgb) dataset
 
 ✅ **Production-ready FastAPI server** - RESTful API with WebSocket support for real-time progress
 
