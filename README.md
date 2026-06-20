@@ -813,6 +813,6 @@ For questions, bug reports, or feature requests, please open an issue on the Git
 ---
 
 Author: Roxana Terebent
-Note: The full implementation will be made available upon completion of the Bachelor's thesis and after the defense date.
+Note: The full code implementation, thesis, results and related materials will be made publicly available upon completion of the Bachelor's thesis and after the defense date.
 
 **Happy transcribing!**
