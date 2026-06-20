@@ -46,18 +46,28 @@ PianoVision achieves **competitive Proof-of-Concept transcription accuracy* (F�
 
 ### Backend (ML & Inference)
 ✅ **Dilated CNN + Bi-GRU architecture** - Efficient polyphonic pitch detection
+
 ✅ **Multi-task learning** - Simultaneous frame and onset detection for improved accuracy
+
 ✅ **Real-time inference** - Asynchronous job queue with worker pool architecture
+
 ✅ **Multi-dataset training** - Domain adaptation across MAESTRO, BCHT, BSDF, STGB datasets
+
 ✅ **Production-ready FastAPI server** - RESTful API with WebSocket support for real-time progress
+
 ✅ **Docker containerization** - CPU and GPU variants for flexible deployment
 
 ### Frontend (User Interface)
 ✅ **Cross-platform support** - Android, iOS, Web, Windows, macOS, Linux
+
 ✅ **Intuitive transcription workflow** - 3-step process: Select --> Configure --> Visualize
+
 ✅ **Real-time progress tracking** - WebSocket-based status updates with detailed logs
+
 ✅ **Interactive MIDI visualization** - Piano roll display with synchronized scrolling
+
 ✅ **Configurable parameters** - Adjust onset/frame thresholds and processing settings
+
 ✅ **Persistent settings** - Backend-managed configuration storage
 
 ---
@@ -813,6 +823,7 @@ For questions, bug reports, or feature requests, please open an issue on the Git
 ---
 
 Author: Roxana Terebent
+
 Note: The full code implementation, thesis, results and related materials will be made publicly available upon completion of the Bachelor's thesis and after the defense date.
 
 **Happy transcribing!**
