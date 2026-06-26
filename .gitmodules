@@ -1,6 +1,8 @@
 [submodule "Bachelor_s_Thesis-frontend"]
 	path = Bachelor_s_Thesis-frontend
 	url = https://github.com/TereRoxy/Bachelor_s_Thesis-frontend.git
+	branch = master
 [submodule "Bachelor_s_Thesis-backend"]
 	path = Bachelor_s_Thesis-backend
 	url = https://github.com/TereRoxy/Bachelor_s_Thesis-backend.git
+	branch = main
